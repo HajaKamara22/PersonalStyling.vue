@@ -28,7 +28,7 @@ const pickupTime = ref('4:00 PM');
 
 <template>
     <a href="/">
-        <img class="logo" src="/Users/hkamara/Library/CloudStorage/OneDrive-Humana/Desktop/Capstone-Final/Personal-Styling-Vue/vue-project/src/assets/Luxe_Closet_Transparent.png" > 
+        <img class="logo" src="../src/assets/Luxe_Closet_Transparent.png" > 
 </a>
   <div class="confirmation-container">
     <h1 class="confirmation-title">Order Confirmation</h1>

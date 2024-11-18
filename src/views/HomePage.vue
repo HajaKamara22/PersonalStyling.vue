@@ -13,7 +13,7 @@
     <div>
       <img
         class="logo"
-        src="/Users/hkamara/Library/CloudStorage/OneDrive-Humana/Desktop/Capstone-Final/Personal-Styling-Vue/vue-project/src/assets/Luxe_Closet_Transparent.png"
+        src="../src/assets/Luxe_Closet_Transparent.png"
       />
     </div>
 
