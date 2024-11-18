@@ -90,7 +90,7 @@ console.log(calendar.value)
 </div> -->
 
 <a class="logo-container" href="/" >
-        <img class="logo" src="../../assets/Luxe_Closet_Transparent.png" > 
+        <img class="logo" src="../assets/Luxe_Closet_Transparent.png" > 
   </a> 
 
 

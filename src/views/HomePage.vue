@@ -13,7 +13,7 @@
     <div>
       <img
         class="logo"
-        src="../../assets/Luxe_Closet_Transparent.png"
+        src="../assets/Luxe_Closet_Transparent.png"
       />
     </div>
 

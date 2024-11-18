@@ -39,7 +39,7 @@ function submitOrder() {
 <template>
 
 <a href="/">
-        <img class="logo" src="/Users/hkamara/Library/CloudStorage/OneDrive-Humana/Desktop/Capstone-Final/Personal-Styling-Vue/vue-project/../assets/Luxe_Closet_Transparent.png" > 
+        <img class="logo" src="../assets/Luxe_Closet_Transparent.png" > 
 </a>
 
   <div class="cart-container">
