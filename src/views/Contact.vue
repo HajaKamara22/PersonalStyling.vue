@@ -17,19 +17,19 @@
     </div>
     <div class="social-grid">
       <div class="social-item">
-        <img class="qr-code" src="/Users/hkamara/Library/CloudStorage/OneDrive-Humana/Desktop/Capstone-Final/Personal-Styling-Vue/vue-project/src/assets/qr-code (1).png" alt="Pinterest QR Code">
+        <img class="qr-code" src="../assets/qr-code (1).png" alt="Pinterest QR Code">
         <p>Pinterest</p>
       </div>
       <div class="social-item">
-        <img class="qr-code" src="/Users/hkamara/Library/CloudStorage/OneDrive-Humana/Desktop/Capstone-Final/Personal-Styling-Vue/vue-project/src/assets/qr-code (3).png" alt="TikTok QR Code">
+        <img class="qr-code" src="../assets/qr-code (3).png" alt="TikTok QR Code">
         <p>TikTok</p>
       </div>
       <div class="social-item">
-        <img class="qr-code" src="/Users/hkamara/Library/CloudStorage/OneDrive-Humana/Desktop/Capstone-Final/Personal-Styling-Vue/vue-project/src/assets/qr-code (2).png" alt="YouTube QR Code">
+        <img class="qr-code" src="../assets/qr-code (2).png" alt="YouTube QR Code">
         <p>YouTube</p>
       </div>
       <div class="social-item">
-        <img class="qr-code" src="/Users/hkamara/Library/CloudStorage/OneDrive-Humana/Desktop/Capstone-Final/Personal-Styling-Vue/vue-project/src/assets/qr-code (4).png" alt="LinkedIn QR Code">
+        <img class="qr-code" src="../assets/qr-code (4).png" alt="LinkedIn QR Code">
         <p>LinkedIn</p>
       </div>
     </div>
