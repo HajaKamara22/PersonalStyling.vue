@@ -34,7 +34,7 @@
       </div>
     </div>
     <div class="image-section">
-      <img class="collage" src="/Users/hkamara/Library/CloudStorage/OneDrive-Humana/Desktop/Capstone-Final/Personal-Styling-Vue/vue-project/src/assets/image.png" alt="Image Collage">
+      <img class="collage" src="../assets/image.png" alt="Image Collage">
       <!-- <button class="get-in-touch">Get In Touch</button> -->
     </div>
   </div>
