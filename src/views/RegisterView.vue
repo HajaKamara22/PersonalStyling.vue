@@ -13,7 +13,7 @@ function register() {
         body: JSON.stringify({email: email.value, password: password.value})
     }
 
-    fetch("http://localhost:3000/register", params)
+    fetch("https://personal-styling-express.vercel.app/register", params)
     .then(response => {
         console.log(response)
     })

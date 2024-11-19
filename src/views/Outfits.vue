@@ -16,7 +16,7 @@ let userColor = ref('')
 let userOutfits = ref('')
 
 // Fetch data based on route parameters
-fetch(`http://localhost:3000/gpt/${route.params.skintone}/${route.params.undertone}/${route.params.eyecolor}/${route.params.haircolor}`)
+fetch(`https://personal-styling-express.vercel.app/gpt/${route.params.skintone}/${route.params.undertone}/${route.params.eyecolor}/${route.params.haircolor}`)
     .then(response => response.json())
     .then(data => {
       console.log(data)

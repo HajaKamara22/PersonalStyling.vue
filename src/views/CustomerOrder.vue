@@ -25,7 +25,7 @@ function submitOrder() {
         outfit_ids: store.items
     }),
   };
-  fetch("http://localhost:3000/submit", options)
+  fetch("https://personal-styling-express.vercel.app/submit", options)
   .then (response => {
     return response.json()
   })

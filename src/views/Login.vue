@@ -22,7 +22,7 @@ function login(e) { //e= is an event
         body: JSON.stringify({email: email.value, password: password.value})
     }
 console.log(calendar.value)
-    fetch("http://localhost:3000/login", params)
+    fetch("https://personal-styling-express.vercel.app/login", params)
     .then(response => response.text())
     .then(json => {
       console.log(json)  //express will call this response(json)

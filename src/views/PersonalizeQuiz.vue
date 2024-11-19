@@ -48,7 +48,7 @@ function userInput() {
   };
 
   // Send POST request to the backend
-  fetch("http://localhost:3000/personalizequiz", params)
+  fetch("https://personal-styling-express.vercel.app/personalizequiz", params)
     .then((response) => {
       if (!response.ok) {
         throw new Error("Failed to submit data");
